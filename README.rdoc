@@ -1,0 +1,5 @@
+Small single page todo list app. 
+
+bundle install
+rake db:create db:migrate
+rails s
